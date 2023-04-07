@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pswg-adventures:lightsaber_hull"
+    },
+    {
+      "item": "pswg-adventures:lightsaber_circuitry"
+    },
+    {
+      "item": "pswg-adventures:holodrive"
+    }
+  ],
+  "result": {
+    "item": "pswg-adventures:lightsaber_holodrive"
+  }
+}

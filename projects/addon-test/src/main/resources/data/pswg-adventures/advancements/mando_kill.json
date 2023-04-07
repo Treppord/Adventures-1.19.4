@@ -1,0 +1,35 @@
+{
+  "display": {
+    "icon": {
+      "item": "pswg:purgetrooper_helmet"
+    },
+    "title": "Down with Mandalore",
+    "description": "Kill a Mandalorian.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "pswg-adventures:nevarro",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "pswg:mandalorian"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "loot": [
+      "pswg:blocks/beskar_ore"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "pswg-adventures:block/c3po_head" },
+    "facing=east": { "model": "pswg-adventures:block/c3po_head", "y": 90 },
+    "facing=south": { "model": "pswg-adventures:block/c3po_head", "y": 180 },
+    "facing=west": { "model": "pswg-adventures:block/c3po_head", "y": 270 }
+  }
+}

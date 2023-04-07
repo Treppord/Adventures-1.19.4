@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "pswg-adventures:blue_kyber_crystal_item",
+    "pswg-adventures:green_kyber_crystal_item",
+    "pswg-adventures:yellow_kyber_crystal_item",
+    "pswg-adventures:orange_kyber_crystal_item",
+    "pswg-adventures:cyan_kyber_crystal_item",
+    "pswg-adventures:red_kyber_crystal_item",
+    "pswg-adventures:purple_kyber_crystal_item"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "pswg-adventures:nevarro_holodrive"
+    },
+    "title": "Welcome to the Outer Rim!.",
+    "description": "Travel to a Nevarro City.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "pswg-adventures:nevarro",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "location": {
+          "feature": "pswg-adventures:nevarrocity1"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "loot": [
+      "pswg-adventures:blocks/scrap_metal"
+    ]
+  }
+}

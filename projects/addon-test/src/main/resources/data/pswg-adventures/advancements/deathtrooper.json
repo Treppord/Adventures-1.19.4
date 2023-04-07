@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "pswg:deathtrooper_helmet"
+    },
+    "title": "*Muffled Noises*",
+    "description": "Obtain a full set of Deathtrooper Armor.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "pswg-adventures:imperial_holodrive",
+  "criteria": {
+    "ad_astra": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "pswg:deathtrooper_helmet",
+              "pswg:deathtrooper_chestplate",
+              "pswg:deathtrooper_leggings",
+              "pswg:deathtrooper_boots"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "loot": [
+      "pswg-adventures:blocks/scrap_metal"
+    ]
+  }
+}

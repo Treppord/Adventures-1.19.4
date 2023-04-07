@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "pswg-adventures:block/c3po_leggings" },
+    "facing=east": { "model": "pswg-adventures:block/c3po_leggings", "y": 90 },
+    "facing=south": { "model": "pswg-adventures:block/c3po_leggings", "y": 180 },
+    "facing=west": { "model": "pswg-adventures:block/c3po_leggings", "y": 270 }
+  }
+}

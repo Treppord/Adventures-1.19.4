@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "Y",
+    "Z"
+  ],
+  "key": {
+    "X": {
+      "item": "pswg-adventures:c3po_head"
+    },
+    "Y": {
+      "item": "pswg-adventures:c3po_body"
+    },
+    "Z": {
+      "item": "pswg-adventures:c3po_leggings"
+    }
+  },
+  "result": {
+    "item": "pswg-adventures:spawn_c3po"
+  }
+}

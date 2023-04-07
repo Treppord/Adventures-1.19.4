@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "pswg-adventures:imperial_holodrive"
+    },
+    "title": "For the Empire!",
+    "description": "Obtain an Imperial Holodrive.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "pswg-adventures:pswg-adventures",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "pswg-adventures:imperial_holodrive"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "loot": [
+      "pswg-adventures:blocks/scrap_metal"
+    ]
+  }
+}

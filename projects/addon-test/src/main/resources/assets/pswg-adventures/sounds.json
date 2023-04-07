@@ -1,0 +1,12 @@
+{
+	"blaster.fire.dc17": {
+		"sounds": [
+			"pswg-addon-test:blaster/fire/dc17"
+		]
+	},
+	"thermal_detonator_trigger": {
+		"sounds": [
+			"pswg-addon-test:thermal_detonator_trigger"
+		]
+	}
+}

@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "pswg-adventures:beskar_alloy_helmet"
+    },
+    "title": "Initiation",
+    "description": "Obtain a full set of Beskar Alloy Armor.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "pswg-adventures:nevarro",
+  "criteria": {
+    "ad_astra": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "pswg-adventures:beskar_alloy_helmet",
+              "pswg-adventures:beskar_alloy_chestplate",
+              "pswg-adventures:beskar_alloy_leggings",
+              "pswg-adventures:beskar_alloy_boots"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "loot": [
+      "pswg-adventures:blocks/scrap_metal"
+    ]
+  }
+}

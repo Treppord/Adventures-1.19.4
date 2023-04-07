@@ -1,0 +1,46 @@
+{
+	"schemaVersion": 1,
+	"id": "pswg-adventures",
+	"version": "0.0.15",
+	"name": "PSWG Addon: Adventures Ep 1",
+	"description": "Now this is podracing.",
+	"authors": [
+		"Trep"
+	],
+	"contact": {
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/pswg-addon-episode-1",
+		"issues": "https://github.com/Treppord/PSWG-Adventures-EP1/issues",
+		"sources": "https://github.com/Treppord/PSWG-Adventures-EP1"
+	},
+	"license": "LGPL-3.0",
+	"icon": "assets/pswg/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"pswg-addon": [
+			"com.trep.addon.TestAddon"
+		],
+		"pswg-client-addon": [
+			"com.trep.addon.TestAddonClient"
+		],
+		"fabric-datagen": [
+			"com.trep.addon.datagen.TestDataGeneration"
+		],
+		"rei_client": [
+			"com.trep.addon.compat.TestAddonPlugin"
+		]
+	},
+	"depends": {
+		"fabric-api": "*",
+		"fabricloader": ">=0.14.18",
+		"minecraft": "1.19.4",
+		"pswg": ">=0.0.99",
+		"geckolib": ">=4.1.2"
+	},
+	"custom": {
+		"modmenu": {
+			"links": {
+				"modmenu.discord": "https://discord.gg/QAbPG8JJaj"
+			}
+		}
+	}
+}

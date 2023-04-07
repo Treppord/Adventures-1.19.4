@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "YXY",
+    "X X",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:gold_ingot"
+    },
+    "Y": {
+      "item": "pswg:insulated_desh_cable"
+    }
+  },
+  "result": {
+    "item": "pswg-adventures:c3po_leggings"
+  }
+}

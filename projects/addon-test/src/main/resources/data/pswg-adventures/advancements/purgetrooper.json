@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "item": "pswg:purgetrooper_helmet"
+    },
+    "title": "Execute, Order 66",
+    "description": "Obtain a full set of Purgetrooper Armor.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "pswg-adventures:imperial_holodrive",
+  "criteria": {
+    "ad_astra": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "pswg:purgetrooper_helmet",
+              "pswg:purgetrooper_chestplate",
+              "pswg:purgetrooper_leggings",
+              "pswg:purgetrooper_boots"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 20
+  }
+}

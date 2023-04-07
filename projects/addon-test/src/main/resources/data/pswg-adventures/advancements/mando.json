@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "pswg-adventures:mando_helmet"
+    },
+    "title": "This is the way",
+    "description": "Obtain a full set of Mando Armor.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "pswg-adventures:beskar_alloy_armor",
+  "criteria": {
+    "ad_astra": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "pswg-adventures:mando_helmet",
+              "pswg-adventures:mando_chestplate",
+              "pswg-adventures:mando_leggings",
+              "pswg-adventures:mando_boots"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "loot": [
+      "pswg-adventures:blocks/scrap_metal"
+    ]
+  }
+}

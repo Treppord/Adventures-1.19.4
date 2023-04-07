@@ -1,0 +1,19 @@
+  {
+    "display": {
+      "background": "pswg-adventures:textures/block/nevarro_stone.png",
+      "icon": {
+        "item": "pswg-adventures:holodrive"
+      },
+      "title": "In a galaxy far far away...",
+      "description": "Start a new world."
+      },
+      "frame": "task",
+      "show_toast": false,
+      "announce_to_chat": false,
+      "hidden": false,
+    "criteria": {
+      "always": {
+        "trigger": "minecraft:tick"
+      }
+    }
+  }

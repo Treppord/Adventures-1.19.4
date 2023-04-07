@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "pswg-adventures:blaster_table",
+    "pswg-adventures:blue_kyber_crystal",
+    "pswg-adventures:c3po_body",
+    "pswg-adventures:c3po_head",
+    "pswg-adventures:c3po_leggings",
+    "pswg-adventures:cyan_kyber_crystal",
+    "pswg-adventures:fabricator",
+    "pswg-adventures:green_kyber_crystal",
+    "pswg-adventures:merchant_station",
+    "pswg-adventures:nevarro_stone_brick",
+    "pswg-adventures:nevarro_stone_smooth",
+    "pswg-adventures:nevarro_stone",
+    "pswg-adventures:orange_kyber_crystal",
+    "pswg-adventures:purple_kyber_crystal",
+    "pswg-adventures:red_kyber_crystal",
+    "pswg-adventures:scrap_metal",
+    "pswg-adventures:yellow_kyber_crystal"
+  ]
+}

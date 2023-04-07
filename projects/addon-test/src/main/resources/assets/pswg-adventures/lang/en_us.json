@@ -1,0 +1,370 @@
+{
+	"entity.pswg-adventures.c3po": "C3PO",
+
+	"category.pswg-adventures.test": "Adventures",
+	"key.pswg-adventures.forcelight": "Force Light - Beta",
+	
+	"entity.pswg-adventures.c3po.none": "C3PO",
+	"entity.pswg-adventures.c3po.armormaster": "C3PO Smith",
+	"entity.pswg-adventures.c3po.merchant": "C3PO Merchant",
+	"entity.pswg-adventures.c3po.fisherman": "C3PO Fisherman",
+	"entity.pswg-adventures.c3po.armorer": "C3PO Armorer",
+	"entity.pswg-adventures.c3po.sheperd": "C3PO Sheperd",
+	"entity.pswg-adventures.c3po.cleric": "C3PO Cleric",
+	"entity.pswg-adventures.c3po.toolsmith": "C3PO Toolsmith",
+	"entity.pswg-adventures.c3po.fletcher": "C3PO Fletcher",
+	"entity.pswg-adventures.c3po.cartographer": "C3PO Cartographer",
+	"entity.pswg-adventures.c3po.mason": "C3PO Mason",
+	"entity.pswg-adventures.c3po.weaponsmith": "C3PO Weaponsmith",
+	"entity.pswg-adventures.c3po.butcher": "C3PO Butcher",
+	"entity.pswg-adventures.c3po.librarian": "C3PO Librarian",
+	"entity.pswg-adventures.c3po.farmer": "C3PO Farmer",
+	"entity.pswg-adventures.c3po.leatherworker": "C3PO Leatherworker",
+
+
+
+	"entity.pswg-adventures.zabrak": "Zabrak",
+	
+	"entity.pswg-adventures.zabrak.none": "Zabrak",
+	"entity.pswg-adventures.zabrak.armormaster": "Zabrak Smith",
+	"entity.pswg-adventures.zabrak.merchant": "Zabrak Merchant",
+	"entity.pswg-adventures.zabrak.fisherman": "Zabrak Fisherman",
+	"entity.pswg-adventures.zabrak.armorer": "Zabrak Armorer",
+	"entity.pswg-adventures.zabrak.sheperd": "Zabrak Sheperd",
+	"entity.pswg-adventures.zabrak.cleric": "Zabrak Cleric",
+	"entity.pswg-adventures.zabrak.toolsmith": "Zabrak Toolsmith",
+	"entity.pswg-adventures.zabrak.fletcher": "Zabrak Fletcher",
+	"entity.pswg-adventures.zabrak.cartographer": "Zabrak Cartographer",
+	"entity.pswg-adventures.zabrak.mason": "Zabrak Mason",
+	"entity.pswg-adventures.zabrak.weaponsmith": "Zabrak Weaponsmith",
+	"entity.pswg-adventures.zabrak.butcher": "Zabrak Butcher",
+	"entity.pswg-adventures.zabrak.librarian": "Zabrak Librarian",
+	"entity.pswg-adventures.zabrak.farmer": "Zabrak Farmer",
+	"entity.pswg-adventures.zabrak.leatherworker": "Zabrak Leatherworker",
+
+
+	"entity.pswg-adventures.bith": "Bith",
+	
+	"entity.pswg-adventures.bith.none": "Bith",
+	"entity.pswg-adventures.bith.armormaster": "Bith Smith",
+	"entity.pswg-adventures.bith.merchant": "Bith Merchant",
+	"entity.pswg-adventures.bith.fisherman": "Bith Fisherman",
+	"entity.pswg-adventures.bith.armorer": "Bith Armorer",
+	"entity.pswg-adventures.bith.sheperd": "Bith Sheperd",
+	"entity.pswg-adventures.bith.cleric": "Bith Cleric",
+	"entity.pswg-adventures.bith.toolsmith": "Bith Toolsmith",
+	"entity.pswg-adventures.bith.fletcher": "Bith Fletcher",
+	"entity.pswg-adventures.bith.cartographer": "Bith Cartographer",
+	"entity.pswg-adventures.bith.mason": "Bith Mason",
+	"entity.pswg-adventures.bith.weaponsmith": "Bith Weaponsmith",
+	"entity.pswg-adventures.bith.butcher": "Bith Butcher",
+	"entity.pswg-adventures.bith.librarian": "Bith Librarian",
+	"entity.pswg-adventures.bith.farmer": "Bith Farmer",
+	"entity.pswg-adventures.bith.leatherworker": "Bith Leatherworker",
+
+
+
+
+	"entity.pswg-adventures.rodian": "Rodian",
+	
+	"entity.pswg-adventures.rodian.none": "Rodian",
+	"entity.pswg-adventures.rodian.armormaster": "Rodian Smith",
+	"entity.pswg-adventures.rodian.merchant": "Rodian Merchant",
+	"entity.pswg-adventures.rodian.fisherman": "Rodian Fisherman",
+	"entity.pswg-adventures.rodian.armorer": "Rodian Armorer",
+	"entity.pswg-adventures.rodian.sheperd": "Rodian Sheperd",
+	"entity.pswg-adventures.rodian.cleric": "Rodian Cleric",
+	"entity.pswg-adventures.rodian.toolsmith": "Rodian Toolsmith",
+	"entity.pswg-adventures.rodian.fletcher": "Rodian Fletcher",
+	"entity.pswg-adventures.rodian.cartographer": "Rodian Cartographer",
+	"entity.pswg-adventures.rodian.mason": "Rodian Mason",
+	"entity.pswg-adventures.rodian.weaponsmith": "Rodian Weaponsmith",
+	"entity.pswg-adventures.rodian.butcher": "Rodian Butcher",
+	"entity.pswg-adventures.rodian.librarian": "Rodian Librarian",
+	"entity.pswg-adventures.rodian.farmer": "Rodian Farmer",
+	"entity.pswg-adventures.rodian.leatherworker": "Rodian Leatherworker",
+
+
+
+
+	"entity.pswg-adventures.trandoshan": "Trandoshan",
+	
+	"entity.pswg-adventures.trandoshan.none": "Trandoshan",
+	"entity.pswg-adventures.trandoshan.armormaster": "Trandoshan Smith",
+	"entity.pswg-adventures.trandoshan.merchant": "Trandoshan Merchant",
+	"entity.pswg-adventures.trandoshan.fisherman": "Trandoshan Fisherman",
+	"entity.pswg-adventures.trandoshan.armorer": "Trandoshan Armorer",
+	"entity.pswg-adventures.trandoshan.sheperd": "Trandoshan Sheperd",
+	"entity.pswg-adventures.trandoshan.cleric": "Trandoshan Cleric",
+	"entity.pswg-adventures.trandoshan.toolsmith": "Trandoshan Toolsmith",
+	"entity.pswg-adventures.trandoshan.fletcher": "Trandoshan Fletcher",
+	"entity.pswg-adventures.trandoshan.cartographer": "Trandoshan Cartographer",
+	"entity.pswg-adventures.trandoshan.mason": "Trandoshan Mason",
+	"entity.pswg-adventures.trandoshan.weaponsmith": "Trandoshan Weaponsmith",
+	"entity.pswg-adventures.trandoshan.butcher": "Trandoshan Butcher",
+	"entity.pswg-adventures.trandoshan.librarian": "Trandoshan Librarian",
+	"entity.pswg-adventures.trandoshan.farmer": "Trandoshan Farmer",
+	"entity.pswg-adventures.trandoshan.leatherworker": "Trandoshan Leatherworker",
+
+	"itemGroup.pswg-adventures.items": "Items - ADVENTURE",
+	"itemGroup.pswg-adventures.blocks": "Blocks - ADVENTURE",
+
+	"item.pswg-adventures.wampa_hide": "Wampa Hide",
+	"item.pswg-adventures.beskar_alloy": "Beskar Alloy",
+	"item.pswg-adventures.beskar_alloy_nugget": "Beskar Alloy Nugget",
+	"item.pswg-adventures.beskar_scraps": "Beskar Scraps",
+	"item.pswg-adventures.beskar_lump": "Beskar Lump",
+
+
+	"item.pswg-adventures.blue_kyber_crystal": "Kyber Crystal Block",
+	"item.pswg-adventures.green_kyber_crystal": "Kyber Crystal Block",
+	"item.pswg-adventures.red_kyber_crystal": "Kyber Crystal Block",
+	"item.pswg-adventures.purple_kyber_crystal": "Kyber Crystal Block",
+	"item.pswg-adventures.yellow_kyber_crystal": "Kyber Crystal Block",
+	"item.pswg-adventures.orange_kyber_crystal": "Kyber Crystal Block",
+	"item.pswg-adventures.cyan_kyber_crystal": "Kyber Crystal Block",
+
+
+	"item.pswg-adventures.blue_kyber_crystal_item": "Kyber Crystal",
+	"item.pswg-adventures.green_kyber_crystal_item": "Kyber Crystal",
+	"item.pswg-adventures.red_kyber_crystal_item": "Kyber Crystal",
+	"item.pswg-adventures.purple_kyber_crystal_item": "Kyber Crystal",
+	"item.pswg-adventures.yellow_kyber_crystal_item": "Kyber Crystal",
+	"item.pswg-adventures.orange_kyber_crystal_item": "Kyber Crystal",
+	"item.pswg-adventures.cyan_kyber_crystal_item": "Kyber Crystal",
+
+
+
+	"item.pswg-adventures.holodrive": "Holodrive",
+	"item.pswg-adventures.trooper_holodrive": "Holodrive",
+	"item.pswg-adventures.imperial_holodrive": "Holodrive",
+	"item.pswg-adventures.lightsaber_holodrive": "Holodrive",
+
+	"item.pswg-adventures.holocron_1": "Holocron",
+
+
+	
+	"item.pswg-adventures.lightsaber_circuitry": "Lightsaber Circuitry",
+	"item.pswg-adventures.lightsaber_hull": "Lightsaber Hull",
+
+	"item.pswg-adventures.overworld_holodrive": "Holodrive",
+	"item.pswg-adventures.tatooine_holodrive": "Holodrive",
+	"item.pswg-adventures.hoth_holodrive": "Holodrive",
+	"item.pswg-adventures.dagobah_holodrive": "Holodrive",
+	"item.pswg-adventures.ilum_holodrive": "Holodrive",
+	"item.pswg-adventures.nevarro_holodrive": "Holodrive",
+
+	"item.pswg-adventures.mandalorian_spear_1": "Mandalorian Spear",
+	"item.pswg-adventures.mandalorian_spear_2": "Mandalorian Spear",
+	"item.pswg-adventures.mandalorian_spear_3": "Mandalorian Spear",
+
+	"item.pswg-adventures.spawn_mandalorian": "Mandalorian Spawn Egg",
+	"item.pswg-adventures.spawn_bith": "Bith Spawn Egg",
+	"item.pswg-adventures.spawn_c3po": "C3PO Spawn Egg",
+	"item.pswg-adventures.spawn_rodian": "Rodian Spawn Egg",
+	"item.pswg-adventures.spawn_trandoshan": "Trandoshan Spawn Egg",
+	"item.pswg-adventures.spawn_zabrak": "Zabrak Spawn Egg",
+
+	"item.pswg-adventures.bronze_credit": "Bronze Credit",
+	"item.pswg-adventures.silver_credit": "Silver Credit",
+	"item.pswg-adventures.gold_credit": "Gold Credit",
+
+	"item.pswg-adventures.tatooine_item": "Warpdrive",
+	"item.pswg-adventures.overworld_item": "Warpdrive",
+	"item.pswg-adventures.dagobah_item": "Warpdrive",
+	"item.pswg-adventures.hoth_item": "Warpdrive",
+	"item.pswg-adventures.ilum_item": "Warpdrive",
+	"item.pswg-adventures.nevarro_item": "Warpdrive",
+	"item.pswg-adventures.warpdrive": "Warpdrive",
+
+
+	"item.pswg-adventures.vader_cape": "Vader Cape",
+	"item.pswg-adventures.mando_cape": "Mando Cape",
+	"item.pswg-adventures.mando_cape_2": "Mando Cape",
+	"item.pswg-adventures.boba_cape": "Mando Cape",
+
+	"item.pswg-adventures.mando_jetpack": "Jetpack",
+	"item.pswg-adventures.boba_jetpack": "Jetpack",
+
+	"item.pswg-adventures.emblem": "Emblem",
+	"item.pswg-adventures.fett_emblem": "Fett Emblem",
+	"item.pswg-adventures.death_watch_emblem": "Death Watch Emblem",
+	"item.pswg-adventures.super_commando_emblem": "Super Commando Emblem",
+
+	"block.pswg-adventures.galaxy_forge": "Galaxy Forge",
+	"block.pswg-adventures.scrap_metal": "Scrap Metal Block",
+	"block.pswg-adventures.merchant_station": "Merchant Station",
+	"block.pswg-adventures.blaster_table": "Blaster Table",
+	"block.pswg-adventures.fabricator": "Fabricator",
+
+	"block.pswg-adventures.c3po_head": "C3PO Head",
+	"block.pswg-adventures.c3po_body": "C3PO Body",
+	"block.pswg-adventures.c3po_leggings": "C3PO Leggings",
+
+
+
+	"block.pswg-adventures.nevarro_stone": "Nevarro Stone",
+	"block.pswg-adventures.nevarro_stone_smooth": "Nevarro Smooth Stone",
+	"block.pswg-adventures.nevarro_stone_brick": "Nevarro Stone Brick",
+
+	"entity.minecraft.villager.armormaster": "Armor Master",
+	"entity.minecraft.villager.merchant": "Merchant",
+
+
+	"blaster.pswg-adventures.dc17": "§oBlasTech§r DC-17",
+	"item.pswg-adventures.beskar_alloy_boots": "Beskar Alloy Boots",
+	"item.pswg-adventures.beskar_alloy_chestplate": "Beskar Alloy Chestplate",
+	"item.pswg-adventures.beskar_alloy_helmet": "Beskar Alloy Helmet",
+	"item.pswg-adventures.beskar_alloy_leggings": "Beskar Alloy Leggings",
+	"item.pswg-adventures.beskar_alloy_alternative_boots": "Beskar Alloy Boots",
+	"item.pswg-adventures.beskar_alloy_alternative_chestplate": "Beskar Alloy Chestplate",
+	"item.pswg-adventures.beskar_alloy_alternative_helmet": "Beskar Alloy Helmet",
+	"item.pswg-adventures.beskar_alloy_alternative_leggings": "Beskar Alloy Leggings",
+
+	"item.pswg-adventures.mando_boots": "Mandalorian Boots",
+	"item.pswg-adventures.mando_chestplate": "Mandalorian Chestplate",
+	"item.pswg-adventures.mando_helmet": "Mandalorian Helmet",
+	"item.pswg-adventures.mando_leggings": "Mandalorian Leggings",
+
+	"item.pswg-adventures.boba_boots": "Mandalorian Boots",
+	"item.pswg-adventures.boba_chestplate": "Mandalorian Chestplate",
+	"item.pswg-adventures.boba_helmet": "Mandalorian Helmet",
+	"item.pswg-adventures.boba_leggings": "Mandalorian Leggings",
+
+	"item.pswg-adventures.jedi_boots": "Jedi Boots",
+	"item.pswg-adventures.jedi_chestplate": "Jedi Chestplate",
+	"item.pswg-adventures.jedi_helmet": "Jedi Helmet",
+	"item.pswg-adventures.jedi_leggings": "Jedi Leggings",
+	
+	"item.pswg-adventures.jedi_robe_boots": "Jedi Robe Boots",
+	"item.pswg-adventures.jedi_robe_chestplate": "Jedi Robe Chestplate",
+	"item.pswg-adventures.jedi_robe_helmet": "Jedi Robe Helmet",
+	"item.pswg-adventures.jedi_robe_leggings": "Jedi Robe Leggings",
+	
+	"item.pswg-adventures.sith_robe_boots": "Sith Robe Boots",
+	"item.pswg-adventures.sith_robe_chestplate": "Sith Robe Chestplate",
+	"item.pswg-adventures.sith_robe_helmet": "Sith Robe Helmet",
+	"item.pswg-adventures.sith_robe_leggings": "Sith Robe Leggings",
+
+
+	"item.pswg-adventures.vader_boots": "Vader Boots",
+	"item.pswg-adventures.vader_chestplate": "Vader Chestplate",
+	"item.pswg-adventures.vader_helmet": "Vader Helmet",
+	"item.pswg-adventures.vader_leggings": "Vader Leggings",
+
+	"item.pswg-adventures.redmando_boots": "Mandalorian Saxon Boots",
+	"item.pswg-adventures.redmando_chestplate": "Mandalorian Saxon Chestplate",
+	"item.pswg-adventures.redmando_helmet": "Mandalorian Saxon Helmet",
+	"item.pswg-adventures.redmando_leggings": "Mandalorian Saxon Leggings",
+
+	"item.pswg-adventures.bluemando_boots": "Mandalorian Fett Boots",
+	"item.pswg-adventures.bluemando_chestplate": "Mandalorian Fett Chestplate",
+	"item.pswg-adventures.bluemando_helmet": "Mandalorian Fett Helmet",
+	"item.pswg-adventures.bluemando_leggings": "Mandalorian Fett Leggings",
+
+	"item.pswg-adventures.cyanmando_boots": "Mandalorian Vizsla Boots",
+	"item.pswg-adventures.cyanmando_chestplate": "Mandalorian Vizsla Chestplate",
+	"item.pswg-adventures.cyanmando_helmet": "Mandalorian Vizsla Helmet",
+	"item.pswg-adventures.cyanmando_leggings": "Mandalorian Vizsla Leggings",
+
+	"container.pswg-adventures.fabricator": "Fabricator",
+	"rei.pswg-adventures.fabricator": "Fabricator",
+
+
+	"power.pswg-adventures.force_push.name": "Force Jump",
+	"power.pswg-adventures.force_sprint.name": "Force Sprint",
+
+	"power.pswg-adventures.force_push.description": "Use your primary key to leap into the air.",
+	"power.pswg-adventures.force_sprint.description": "When sprinting, you can jump 1.5 blocks.",
+
+	"gui.pswg-adventures.planet_selection.hoth": "Hoth",
+	"gui.pswg-adventures.planet_selection.tatooine": "Tatooine",
+	"gui.pswg-adventures.planet_selection.nevarro": "Nevarro",
+	"gui.pswg-adventures.text.galaxy_far_away": "The Galaxy",
+	"gui.pswg-adventures.text.outer_rims": "Outer Rim",
+
+
+	
+	"item.pswg-adventures.thermal_detonator": "Thermal Detonator",
+	"entity.pswg-adventures.thermal_detonator": "Thermal Detonator",
+	
+	"item.pswg-adventures.mando_white_boots": "Mandalorian Boots",
+	"item.pswg-adventures.mando_white_chestplate": "Mandalorian Chestplate",
+	"item.pswg-adventures.mando_white_helmet": "Mandalorian Helmet",
+	"item.pswg-adventures.mando_white_leggings": "Mandalorian Leggings",
+
+	"item.pswg-adventures.mando_light_gray_boots": "Mandalorian Boots",
+	"item.pswg-adventures.mando_light_gray_chestplate": "Mandalorian Chestplate",
+	"item.pswg-adventures.mando_light_gray_helmet": "Mandalorian Helmet",
+	"item.pswg-adventures.mando_light_gray_leggings": "Mandalorian Leggings",
+
+	"item.pswg-adventures.mando_gray_boots": "Mandalorian Boots",
+	"item.pswg-adventures.mando_gray_chestplate": "Mandalorian Chestplate",
+	"item.pswg-adventures.mando_gray_helmet": "Mandalorian Helmet",
+	"item.pswg-adventures.mando_gray_leggings": "Mandalorian Leggings",
+
+	"item.pswg-adventures.mando_black_boots": "Mandalorian Boots",
+	"item.pswg-adventures.mando_black_chestplate": "Mandalorian Chestplate",
+	"item.pswg-adventures.mando_black_helmet": "Mandalorian Helmet",
+	"item.pswg-adventures.mando_black_leggings": "Mandalorian Leggings",
+
+	"item.pswg-adventures.mando_brown_boots": "Mandalorian Boots",
+	"item.pswg-adventures.mando_brown_chestplate": "Mandalorian Chestplate",
+	"item.pswg-adventures.mando_brown_helmet": "Mandalorian Helmet",
+	"item.pswg-adventures.mando_brown_leggings": "Mandalorian Leggings",
+
+	"item.pswg-adventures.mando_red_boots": "Mandalorian Boots",
+	"item.pswg-adventures.mando_red_chestplate": "Mandalorian Chestplate",
+	"item.pswg-adventures.mando_red_helmet": "Mandalorian Helmet",
+	"item.pswg-adventures.mando_red_leggings": "Mandalorian Leggings",
+
+	"item.pswg-adventures.mando_orange_boots": "Mandalorian Boots",
+	"item.pswg-adventures.mando_orange_chestplate": "Mandalorian Chestplate",
+	"item.pswg-adventures.mando_orange_helmet": "Mandalorian Helmet",
+	"item.pswg-adventures.mando_orange_leggings": "Mandalorian Leggings",
+
+	"item.pswg-adventures.mando_yellow_boots": "Mandalorian Boots",
+	"item.pswg-adventures.mando_yellow_chestplate": "Mandalorian Chestplate",
+	"item.pswg-adventures.mando_yellow_helmet": "Mandalorian Helmet",
+	"item.pswg-adventures.mando_yellow_leggings": "Mandalorian Leggings",
+
+	"item.pswg-adventures.mando_lime_boots": "Mandalorian Boots",
+	"item.pswg-adventures.mando_lime_chestplate": "Mandalorian Chestplate",
+	"item.pswg-adventures.mando_lime_helmet": "Mandalorian Helmet",
+	"item.pswg-adventures.mando_lime_leggings": "Mandalorian Leggings",
+
+	"item.pswg-adventures.mando_green_boots": "Mandalorian Boots",
+	"item.pswg-adventures.mando_green_chestplate": "Mandalorian Chestplate",
+	"item.pswg-adventures.mando_green_helmet": "Mandalorian Helmet",
+	"item.pswg-adventures.mando_green_leggings": "Mandalorian Leggings",
+
+	"item.pswg-adventures.mando_cyan_boots": "Mandalorian Boots",
+	"item.pswg-adventures.mando_cyan_chestplate": "Mandalorian Chestplate",
+	"item.pswg-adventures.mando_cyan_helmet": "Mandalorian Helmet",
+	"item.pswg-adventures.mando_cyan_leggings": "Mandalorian Leggings",
+
+	"item.pswg-adventures.mando_light_blue_boots": "Mandalorian Boots",
+	"item.pswg-adventures.mando_light_blue_chestplate": "Mandalorian Chestplate",
+	"item.pswg-adventures.mando_light_blue_helmet": "Mandalorian Helmet",
+	"item.pswg-adventures.mando_light_blue_leggings": "Mandalorian Leggings",
+
+	"item.pswg-adventures.mando_blue_boots": "Mandalorian Boots",
+	"item.pswg-adventures.mando_blue_chestplate": "Mandalorian Chestplate",
+	"item.pswg-adventures.mando_blue_helmet": "Mandalorian Helmet",
+	"item.pswg-adventures.mando_blue_leggings": "Mandalorian Leggings",
+
+	"item.pswg-adventures.mando_purple_boots": "Mandalorian Boots",
+	"item.pswg-adventures.mando_purple_chestplate": "Mandalorian Chestplate",
+	"item.pswg-adventures.mando_purple_helmet": "Mandalorian Helmet",
+	"item.pswg-adventures.mando_purple_leggings": "Mandalorian Leggings",
+
+	"item.pswg-adventures.mando_magenta_boots": "Mandalorian Boots",
+	"item.pswg-adventures.mando_magenta_chestplate": "Mandalorian Chestplate",
+	"item.pswg-adventures.mando_magenta_helmet": "Mandalorian Helmet",
+	"item.pswg-adventures.mando_magenta_leggings": "Mandalorian Leggings",
+
+	"item.pswg-adventures.mando_pink_boots": "Mandalorian Boots",
+	"item.pswg-adventures.mando_pink_chestplate": "Mandalorian Chestplate",
+	"item.pswg-adventures.mando_pink_helmet": "Mandalorian Helmet",
+	"item.pswg-adventures.mando_pink_leggings": "Mandalorian Leggings"
+}
